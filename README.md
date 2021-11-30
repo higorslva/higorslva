@@ -1,6 +1,6 @@
-# Olá 👋 Higor por aqui
+# Olá 👋 me chamo Higor
 [![Higor's GitHub stats](https://github-readme-stats.vercel.app/api?username=higorslva&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/higorslva)
-## What's up?
+## Quem sou eu?
 - Sou estudante de Ciência da Computação. Esse é meu repositório de códigos e alguns testes que costumo fazer
 ## ...Linguagens de programação mais usadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higorslva&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/higorslva?tab=repositories)
