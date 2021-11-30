@@ -17,5 +17,5 @@
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](https://t.me/higorslva)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Email_%281674%29_-_The_Noun_Project.svg" width="32">](mailto:higors88@protonmail.com)
 [<img src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" width="32">](https://reddit.com/user/higorslva)
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/xdadevelopers.svg" width="32">](https://forum.xda-developers.com/m/higor_slva.7474710
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/xdadevelopers.svg" width="32">](https://forum.xda-developers.com/m/higor_slva.7474710)
 [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32">](https://twitter.com/higorslva_)
