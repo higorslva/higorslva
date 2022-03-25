@@ -15,5 +15,5 @@
 ## Como me encontrar
 
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](https://t.me/higorslva)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Email_%281674%29_-_The_Noun_Project.svg" width="32">](mailto:higors88@gmail.com)
+[<img src="https://w7.pngwing.com/pngs/817/967/png-transparent-gmail-logo-gmail-email-icon-logo-gmail-logo-angle-text-rectangle.png" width="32">](mailto:higors88@gmail.com)
 [<img src="https://forum.xda-developers.com/data/avatars/h/335/335322.jpg" width="32">](https://forum.xda-developers.com/m/higor_slva.7474710)
