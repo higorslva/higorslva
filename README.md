@@ -16,4 +16,4 @@
 
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](https://t.me/higorslva)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Email_%281674%29_-_The_Noun_Project.svg" width="32">](mailto:higors88@gmail.com)
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/xdadevelopers.svg" width="32">](https://forum.xda-developers.com/m/higor_slva.7474710)
+[<img src="https://scontent.fmcp1-1.fna.fbcdn.net/v/t1.6435-9/121221530_10157792045871302_173933455743322191_n.jpg" width="32">](https://forum.xda-developers.com/m/higor_slva.7474710)
