@@ -3,7 +3,7 @@
 ## Quem sou eu?
 - Sou estudante de Ciência da Computação. Esse é meu repositório de códigos e alguns testes que costumo fazer
 ## ...Linguagens de programação mais usadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higorslva&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/higorslva?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=higorslva&langs_count=10&theme=tokyonight)](https://github.com/higorslva?tab=repositories)
 
 ## Tenho conhecimentos em:
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
