@@ -18,6 +18,6 @@
 
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32">](https://www.linkedin.com/in/higorslva/)
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](https://t.me/higorslva)
-[<img src="https://w7.pngwing.com/pngs/817/967/png-transparent-gmail-logo-gmail-email-icon-logo-gmail-logo-angle-text-rectangle.png" width="32">](mailto:higors88@gmail.com)
+[<img src="https://w7.pngwing.com/pngs/817/967/png-transparent-gmail-logo-gmail-email-icon-logo-gmail-logo-angle-text-rectangle.png" width="32">](mailto:higor.slva@outlook.com)
 [<img src="https://forum.xda-developers.com/data/avatars/h/335/335322.jpg" width="32">](https://forum.xda-developers.com/m/higor_slva.7474710)
 [<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" width="32">](https://dev.to/higorslva_)
