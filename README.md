@@ -18,7 +18,11 @@ Esse é meu repositório de códigos e alguns testes que costumo fazer
 ## Tenho conhecimentos em:
 
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,bash,java,python,vscode,c,cpp,lua,mysql,flutter,aws,gcp,docker,php,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,java,python,c,cpp,lua,mysql,flutter,aws,gcp,docker,php,&perline=7)](https://skillicons.dev)
+
+## Ferramentas que utilizo:
+
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,vim,idea,github&perline=7)](https://skillicons.dev)
 
 ## Como me encontrar
 
