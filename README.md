@@ -8,6 +8,8 @@ Possuo ampla experiência em programação utilizando as linguagens Java, C++ e 
 
 Já participei em projetos na universidade com servidores Linux, incluindo Apache, Nginx, PHP e MySQL, bem como configurar e fornecer manutenção em sistemas operacionais Linux e Windows.
 
+Atualmente, sou residente de desenvolvimento de software no Tribunal de Justiça do Amapá (TJAP), onde lidero o desenvolvimento de um chatbot para facilitar o acesso do cidadão aos serviços jurídicos, incluindo informações sobre o tribunal e consultas de processos. 
+
 Constantemente busco simplificar soluções complexas, visando proporcionar ao usuário final uma experiência simplificada e acessível.
 
 Esse é meu repositório de códigos e alguns testes que costumo fazer
