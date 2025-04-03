@@ -3,11 +3,11 @@
 ## Quem sou eu? 
 Sou estudante de **Ciência da Computação** 🖥️, apaixonado por tecnologia e algoritmos. Domino várias linguagens de programação, como **Python**, **C/C++**, **PHP** e **JavaScript**, e tenho experiência com bancos de dados tradicionais (**MySQL**, **PostgreSQL**) e vetoriais (**QDrant**). 🛠️
 
-Já trabalhei em projetos universitários com servidores **Linux** 🐧 (Apache, Nginx, PHP, MySQL) e participei de iniciativas como ensino de **Python** 🐍 para alunos de escolas públicas, desenvolvimento de uma solução de **Visão Computacional** 👁️ para reconhecer ônibus usando **Raspberry Pi** 🍓 e **Machine Learning** 🤖, e treinamento de **LLMs open source** para criar chatbots locais. 💬
+Já trabalhei em projetos universitários com servidores **Linux** 🐧 (Apache, Nginx, PHP, MySQL) e participei de iniciativas como ensino de programação em **Python** para alunos de escolas públicas do Amapá, desenvolvimento de uma solução de **Visão Computacional** para reconhecimento de ônibus usando **Raspberry Pi** 🍓 e **Machine Learning** 🤖, e treinamento de **LLMs open source** e utilização de RAG para criação de chatbots locais. 💬
 
-Atualmente, sou residente de desenvolvimento de software no **Tribunal de Justiça do Amapá (TJAP)** ⚖️, onde liderei e concluí o [desenvolvimento de um chatbot](https://www.tjap.jus.br/portal/noticias/facilidade-e-eficiencia-digital-tjap-lanca-inteligencia-artificial-chatbot-juci-a-assistente-virtual-do-portal-do-poder-judiciario.html) que facilita o acesso a serviços jurídicos, como consultas processuais. 🤖✨
+Atualmente, sou residente de desenvolvimento de software no **Tribunal de Justiça do Amapá (TJAP)** ⚖️, onde liderei a equipe de IA e concluí o [desenvolvimento de um chatbot](https://www.tjap.jus.br/portal/noticias/facilidade-e-eficiencia-digital-tjap-lanca-inteligencia-artificial-chatbot-juci-a-assistente-virtual-do-portal-do-poder-judiciario.html) que facilita o acesso a serviços jurídicos, como consultas processuais e dúvidas acerca do Tribunal. 🤖✨
 
-Meu foco é **simplificar soluções complexas** 🧩 para oferecer uma experiência **acessível** e **intuitiva** ao usuário final. 🚀
+Meu foco é **simplificar soluções complexas** para oferecer uma experiência **acessível** e **intuitiva** ao usuário final. 🚀
 
 Aqui está meu repositório de códigos e alguns testes que costumo fazer. 👨‍💻🔍
 
