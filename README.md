@@ -1,5 +1,5 @@
 # Olá 👋 me chamo Higor
-[![Higor's GitHub stats](https://github-readme-statss-higor-silvas-projects.vercel.appapi?username=higorslva&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/higorslva)
+[![Higor's GitHub stats](https://github-readme-statss-higor-silvas-projects.vercel.app/api?username=higorslva&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/higorslva)
 ## Quem sou eu? 
 Sou estudante de **Ciência da Computação** 🖥️, apaixonado por tecnologia e algoritmos. Domino várias linguagens de programação, como **Python**, **C/C++**, **PHP** e **JavaScript**, e tenho experiência com bancos de dados tradicionais (**MySQL**, **PostgreSQL**) e vetoriais (**QDrant**). 🛠️
 
