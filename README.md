@@ -1,5 +1,5 @@
 # Olá 👋 me chamo Higor
-[![Higor's GitHub stats](https://github-readme-statss-higor-silvas-projects.vercel.app/api?username=higorslva&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/higorslva)
+[![Higor's GitHub stats](https://github-readme-stats.vercel.app/api?username=higorslva&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/higorslva)
 ## Quem sou eu? 
 Sou estudante de **Ciência da Computação** 🖥️, apaixonado por tecnologia e algoritmos. Domino várias linguagens de programação, como **Python**, **C/C++**, **PHP** e **JavaScript**, e tenho experiência com bancos de dados tradicionais (**MySQL**, **PostgreSQL**) e vetoriais (**QDrant**). 🛠️
 
@@ -10,9 +10,6 @@ Atualmente, sou residente de desenvolvimento de software no **Tribunal de Justi�
 Meu foco é **simplificar soluções complexas** para oferecer uma experiência **acessível** e **intuitiva** ao usuário final. 🚀
 
 Aqui está meu repositório de códigos e alguns testes que costumo fazer. 👨‍💻🔍
-
-## ...Linguagens de programação mais usadas
-[![Top Langs](https://github-readme-statss-higor-silvas-projects.vercel.app/api/top-langs/?username=higorslva&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/higorslva?tab=repositories)
 
 ## Tenho conhecimentos em:
 
